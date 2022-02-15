@@ -16,6 +16,8 @@ This is a simple javascript solution to attempt all possible 4 digit passcode fr
 8. Paster script on console and run it by calling bruteForceLogin() function and wait until it cracks profile pin
 9. At end, it will show profile pin in last log like Got into account - 1234 and also in local storage
 
+![](https://i.postimg.cc/fWBHhGTJ/image.png)
+
 
 
 
