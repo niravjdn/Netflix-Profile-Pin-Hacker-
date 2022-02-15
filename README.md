@@ -10,7 +10,7 @@ This is a simple javascript solution to attempt all possible 4 digit passcode fr
 5. try to enter any random password and see network tab request
 6. copy the blurred field and replace in script.js
 
-![](https://postimg.cc/Y4FDyqGp)
+![](https://i.postimg.cc/k5YrG27t/2022-02-15-at-3-20-PM.png)
 
 7. copy the request parameter guid and authURL and replace in script.js on first few lines
 8. Paster script on console and run it by calling bruteForceLogin() function and wait until it cracks profile pin
