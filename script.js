@@ -9,7 +9,7 @@ function randomIntFromInterval(min, max) { // min and max included
 }
 
 async function bruteForceLogin(){
-    var pin = "4273";
+    var pin = "4233";
 
     const store = [];
     
